@@ -1,7 +1,8 @@
-# Nome do produto
+# MovieRecommendation
 > Aplicativo para recomendação de filmes e series na plataforma netflix
 
 ![](./assets/img/1.png)
+![](./assets/img/2.png)
 
 
 ## Configuração para Desenvolvimento
